@@ -1,0 +1,29 @@
+/* html{
+    background-color: #41B3A3;
+    padding: 0%;
+} */
+body{
+    /* padding: 0%; */
+    background-color: rgb(135, 245, 245);
+}
+
+.py-5{
+    /* background-color: #85DCBB; */
+    /* color: rgb(44, 128, 203); */
+    padding: 10%;
+    margin: 0%;
+    
+}
+.bg-light{
+    background-color: rgb(145, 210, 210);
+    padding: 10%;
+    margin: 0%;
+    
+
+
+}
+
+.veryHighCont h2{
+    font-weight: 500;
+    color: #41B3A3;
+}
